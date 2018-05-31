@@ -1,0 +1,6 @@
+model_checkpoint_path: "stack_rnn-2401"
+all_model_checkpoint_paths: "stack_rnn-1601"
+all_model_checkpoint_paths: "stack_rnn-1801"
+all_model_checkpoint_paths: "stack_rnn-2001"
+all_model_checkpoint_paths: "stack_rnn-2201"
+all_model_checkpoint_paths: "stack_rnn-2401"
